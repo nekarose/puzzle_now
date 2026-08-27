@@ -2,6 +2,7 @@
   "latest_version": "1.10.1",
   "min_supported_version": "1.0.0",
   "update_message": "도감 추가.업데이트해 주세요!",
+  "update_message_en": "New pictures, and difficulty's been tuned — please update!",
   "ios_store_url": "https://apps.apple.com/kr/app/id6797112599",
   "android_store_url": "market://details?id=com.nekarose.photo_puzzle_game"
 }
