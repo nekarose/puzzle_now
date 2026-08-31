@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.13.1",
+  "latest_version": "1.14.0",
   "min_supported_version": "1.0.0",
-  "update_message": "도감 추가. 버그 수정. 업데이트해 주세요!",
-  "update_message_en": "New pictures, and difficulty's been tuned — please update!",
+  "update_message": "그림 405장 추가, 전면 광고 제거! 업데이트해 주세요!!",
+  "update_message_en": "405 new pictures, and you can remove the ads! Please update!",
   "ios_store_url": "https://apps.apple.com/kr/app/id6797112599",
   "android_store_url": "market://details?id=com.nekarose.photo_puzzle_game"
 }
