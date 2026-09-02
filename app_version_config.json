@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.14.0",
+  "latest_version": "1.15.1",
   "min_supported_version": "1.0.0",
-  "update_message": "그림 405장 추가, 전면 광고 제거! 업데이트해 주세요!!",
-  "update_message_en": "405 new pictures, and you can remove the ads! Please update!",
+  "update_message": "새 놀이 「자리 맞추기」와 그림 70장이 추가됐어요. 업데이트해 주세요!",
+  "update_message_en": "A new mode, Arrange, plus 70 new pictures. Please update!",
   "ios_store_url": "https://apps.apple.com/kr/app/id6797112599",
   "android_store_url": "market://details?id=com.nekarose.photo_puzzle_game"
 }
