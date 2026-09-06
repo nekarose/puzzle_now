@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.15.1",
+  "latest_version": "1.15.3",
   "min_supported_version": "1.0.0",
-  "update_message": "새 놀이 「자리 맞추기」와 그림 70장이 추가됐어요. 업데이트해 주세요!",
-  "update_message_en": "A new mode, Arrange, plus 70 new pictures. Please update!",
+  "update_message": "스테이지에 별이 생겼어요! 콤보를 이으면 점수가 올라가요. 새 스테이지 75판도 함께 왔어요.",
+  "update_message_en": "Stages have stars now! Chain your combos for a higher score. Plus 75 new stages.",
   "ios_store_url": "https://apps.apple.com/kr/app/id6797112599",
   "android_store_url": "market://details?id=com.nekarose.photo_puzzle_game"
 }
