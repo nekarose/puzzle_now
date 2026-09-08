@@ -2,7 +2,7 @@
   "latest_version": "1.15.6",
   "min_supported_version": "1.0.0",
   "update_message": "스테이지 다시하기가 기록에 생겼어요. 레이아웃이 일부 변경 되었어요.",
-  "update_message_en": "Stages have stars now! Chain your combos for a higher score. Plus 75 new stages.",
+  "update_message_en": "now replay stages from your history. Some parts of the layout have also been updated.",
   "ios_store_url": "https://apps.apple.com/kr/app/id6797112599",
   "android_store_url": "market://details?id=com.nekarose.photo_puzzle_game"
 }
