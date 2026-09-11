@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.15.6",
+  "latest_version": "1.15.7",
   "min_supported_version": "1.0.0",
-  "update_message": "스테이지 다시하기가 기록에 생겼어요. 레이아웃이 일부 변경 되었어요.",
-  "update_message_en": "now replay stages from your history. Some parts of the layout have also been updated.",
+  "update_message": "새 스테이지 25판이 생겼어요. 스테이지를 끝내면 이번 판에 모은 그림을 보여줘요.",
+  "update_message_en": "25 new stages are here. Finish a stage and see the pictures you collected.",
   "ios_store_url": "https://apps.apple.com/kr/app/id6797112599",
   "android_store_url": "market://details?id=com.nekarose.photo_puzzle_game"
 }
