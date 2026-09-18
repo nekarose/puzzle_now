@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.15.7",
+  "latest_version": "1.15.8",
   "min_supported_version": "1.0.0",
-  "update_message": "새 스테이지 25판이 생겼어요. 스테이지를 끝내면 이번 판에 모은 그림을 보여줘요.",
-  "update_message_en": "25 new stages are here. Finish a stage and see the pictures you collected.",
+  "update_message": "새 친구들이 왔어요 — 바다토끼, 클리오네, 블롭피쉬. 오늘의 도전은 다시 해도 광고가 없어요.",
+  "update_message_en": "New friends are here — a sea bunny, a clione and a blobfish. Replaying today's challenge no longer shows an ad.",
   "ios_store_url": "https://apps.apple.com/kr/app/id6797112599",
   "android_store_url": "market://details?id=com.nekarose.photo_puzzle_game"
 }
