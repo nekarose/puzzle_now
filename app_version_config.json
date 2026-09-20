@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.15.8",
+  "latest_version": "1.16.0",
   "min_supported_version": "1.0.0",
-  "update_message": "새 친구들이 왔어요 — 바다토끼, 클리오네, 블롭피쉬. 오늘의 도전은 다시 해도 광고가 없어요.",
-  "update_message_en": "New friends are here — a sea bunny, a clione and a blobfish. Replaying today's challenge no longer shows an ad.",
+  "update_message": "내 사진도 자리 맞추기 판이 돼요 — 사진 한 장이 16조각으로 나뉘어요. 1~220스테이지에는 새 친구들도 왔어요.",
+  "update_message_en": "Your own photo can be a position board now — one photo, sixteen pieces. New friends are waiting in stages 1-220.",
   "ios_store_url": "https://apps.apple.com/kr/app/id6797112599",
   "android_store_url": "market://details?id=com.nekarose.photo_puzzle_game"
 }
