@@ -1,8 +1,8 @@
 {
   "latest_version": "1.16.2",
   "min_supported_version": "1.0.0",
-  "update_message": "출석체크가 생겼어요! 더 많은 보상을 받아봐요!",
-  "update_message_en": "Your own photo can be a position board now — one photo, sixteen pieces. New friends are waiting in stages 1-220.",
+  "update_message": "매일 들어오면 출석 도장과 힌트를 받아요. 이번 주 순위도 새로 생겼어요.",
+  "update_message_en": "Drop by every day for attendance stamps and free hints. There's a new weekly ranking, too.",
   "ios_store_url": "https://apps.apple.com/kr/app/id6797112599",
   "android_store_url": "market://details?id=com.nekarose.photo_puzzle_game"
 }
