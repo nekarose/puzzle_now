@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.16.2",
+  "latest_version": "1.16.3",
   "min_supported_version": "1.0.0",
-  "update_message": "매일 들어오면 출석 도장과 힌트를 받아요. 이번 주 순위도 새로 생겼어요.",
-  "update_message_en": "Drop by every day for attendance stamps and free hints. There's a new weekly ranking, too.",
+  "update_message": "새 친구들이 마지막 스테이지까지 함께해요. 조각도 더 알아보기 쉬워졌어요.",
+  "update_message_en": "The new friends now go all the way to the last stage, and pieces are easier to tell apart.",
   "ios_store_url": "https://apps.apple.com/kr/app/id6797112599",
   "android_store_url": "market://details?id=com.nekarose.photo_puzzle_game"
 }
