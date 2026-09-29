@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.16.3",
+  "latest_version": "1.16.4",
   "min_supported_version": "1.0.0",
-  "update_message": "새 친구들이 마지막 스테이지까지 함께해요. 조각도 더 알아보기 쉬워졌어요.",
-  "update_message_en": "The new friends now go all the way to the last stage, and pieces are easier to tell apart.",
+  "update_message": "두 그림을 연달아 맞출 때 어색하던 부분을 고쳤어요. 아이콘도 새로워졌어요.",
+  "update_message_en": "Fixed an awkward moment when two pictures are completed back to back, and the app icon is new.",
   "ios_store_url": "https://apps.apple.com/kr/app/id6797112599",
   "android_store_url": "market://details?id=com.nekarose.photo_puzzle_game"
 }
