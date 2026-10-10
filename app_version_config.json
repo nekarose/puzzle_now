@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.16.5",
+  "latest_version": "1.16.6",
   "min_supported_version": "1.0.0",
-  "update_message": "새 스테이지 25개가 열렸어요. 이제 주간 1등과 스테이지 1~3등은 매주 힌트를 받아요.",
-  "update_message_en": "25 new stages are open, and the weekly winner and the stage board's top 3 now win hints every week.",
+  "update_message": "새 스테이지 25개가 열렸어요. 광고를 닫은 뒤 게임으로 돌아오지 않던 문제도 고쳤어요.",
+  "update_message_en": "25 new stages are open, and the game now always comes back after an ad.",
   "ios_store_url": "https://apps.apple.com/kr/app/id6797112599",
   "android_store_url": "market://details?id=com.nekarose.photo_puzzle_game"
 }
