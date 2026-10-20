@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.17.1",
+  "latest_version": "1.18.0",
   "min_supported_version": "1.0.0",
-  "update_message": "새 스테이지 50개가 열렸어요. 이제 내 음악을 들으며 퍼즐할 수 있어요.",
-  "update_message_en": "50 new stages are open, and you can now puzzle to your own music.",
+  "update_message": "새 스테이지 100개가 열렸어요. 판이 회색으로 멈추던 문제도 고쳤어요.",
+  "update_message_en": "100 new stages are open, and a rare grey-board freeze is fixed.",
   "ios_store_url": "https://apps.apple.com/kr/app/id6797112599",
   "android_store_url": "market://details?id=com.nekarose.photo_puzzle_game"
 }
