@@ -1,8 +1,10 @@
 {
-  "latest_version": "1.18.0",
+  "latest_version": "2.0.0",
   "min_supported_version": "1.0.0",
-  "update_message": "새 스테이지 100개가 열렸어요. 판이 회색으로 멈추던 문제도 고쳤어요.",
-  "update_message_en": "100 new stages are open, and a rare grey-board freeze is fixed.",
+  "update_message": "새 친구 복어와 해마가 찾아왔어요. 오늘의 도전에도 여섯 친구가 고르게 나와요.",
+  "update_message_en": "Two new friends are here: a pufferfish and a seahorse. The daily challenge now deals all six evenly.",
+  "update_message_ja": "新しい仲間、フグとタツノオトシゴが登場しました。デイリーチャレンジにも6人の仲間がバランスよく登場します。",
+  "update_message_zh": "新朋友河豚和海馬來了！每日挑戰也會平均出現六位朋友。",
   "ios_store_url": "https://apps.apple.com/kr/app/id6797112599",
   "android_store_url": "market://details?id=com.nekarose.photo_puzzle_game"
 }
