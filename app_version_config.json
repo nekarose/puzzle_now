@@ -1,10 +1,10 @@
 {
-  "latest_version": "2.1.0",
+  "latest_version": "2.2.0",
   "min_supported_version": "1.0.0",
-  "update_message": "복어와 해마가 400스테이지까지 함께해요. 홈에서 바로 광고를 제거할 수도 있어요.",
-  "update_message_en": "The pufferfish and seahorse now join you up to stage 400, and you can remove ads right from home.",
-  "update_message_ja": "フグとタツノオトシゴが400ステージまで登場します。ホームから広告をすぐに削除できるようになりました。",
-  "update_message_zh": "河豚和海馬陪你到第 400 關，也能在首頁直接移除廣告。",
+  "update_message": "새 무한 모드와 얼음 칸이 생겼어요. 복어와 해마도 500스테이지까지 함께해요.",
+  "update_message_en": "New Endless mode and ice pieces are here, and the pufferfish and seahorse now join you up to stage 500.",
+  "update_message_ja": "新しいエンドレスモードと氷のピースが登場。フグとタツノオトシゴも500ステージまで一緒です。",
+  "update_message_zh": "全新無限模式和冰塊登場，河豚和海馬也陪你到第 500 關。",
   "ios_store_url": "https://apps.apple.com/kr/app/id6797112599",
   "android_store_url": "market://details?id=com.nekarose.photo_puzzle_game"
 }
