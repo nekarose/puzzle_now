@@ -1,10 +1,10 @@
 {
-  "latest_version": "2.2.1",
+  "latest_version": "2.3.0",
   "min_supported_version": "1.0.0",
-  "update_message": "새 무한 모드와 얼음 칸이 생겼어요. 복어와 해마도 500스테이지까지 함께해요.",
-  "update_message_en": "New Endless mode and ice pieces are here, and the pufferfish and seahorse now join you up to stage 500.",
-  "update_message_ja": "新しいエンドレスモードと氷のピースが登場。フグとタツノオトシゴも500ステージまで一緒です。",
-  "update_message_zh": "全新無限模式和冰塊登場，河豚和海馬也陪你到第 500 關。",
+  "update_message": "1:1 대전이 생겼어요! 그림을 먼저 맞춰 게이지를 밀고, 친구 코드로 친구와도 겨뤄 보세요.",
+  "update_message_en": "New 1-on-1 Battle! Finish pictures first to push the gauge, and challenge friends with a friend code.",
+  "update_message_ja": "1対1の対戦が登場！先に絵をそろえてゲージを押し、フレンドコードで友だちとも対戦しよう。",
+  "update_message_zh": "全新1對1對戰！先拼好圖片推動量表，也能用好友代碼和朋友對戰。",
   "ios_store_url": "https://apps.apple.com/kr/app/id6797112599",
   "android_store_url": "market://details?id=com.nekarose.photo_puzzle_game"
 }
