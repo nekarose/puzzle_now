@@ -1,10 +1,10 @@
 {
-  "latest_version": "2.3.0",
+  "latest_version": "2.4.0",
   "min_supported_version": "1.0.0",
-  "update_message": "1:1 대전이 생겼어요! 그림을 먼저 맞춰 게이지를 밀고, 친구 코드로 친구와도 겨뤄 보세요.",
-  "update_message_en": "New 1-on-1 Battle! Finish pictures first to push the gauge, and challenge friends with a friend code.",
-  "update_message_ja": "1対1の対戦が登場！先に絵をそろえてゲージを押し、フレンドコードで友だちとも対戦しよう。",
-  "update_message_zh": "全新1對1對戰！先拼好圖片推動量表，也能用好友代碼和朋友對戰。",
+  "update_message": "프로필 아이콘과 테두리가 생겼어요! 새 아이콘을 모으면 순위표와 대전에서 다른 사람에게도 보여요.",
+  "update_message_en": "New profile icons and frames! Earn icons and show them on leaderboards and in battles.",
+  "update_message_ja": "プロフィールアイコンとフレームが登場！集めたアイコンはランキングと対戦で他の人にも見えます。",
+  "update_message_zh": "全新個人圖示和外框！收集的圖示在排行榜和對戰中其他玩家也看得到。",
   "ios_store_url": "https://apps.apple.com/kr/app/id6797112599",
   "android_store_url": "market://details?id=com.nekarose.photo_puzzle_game"
 }
