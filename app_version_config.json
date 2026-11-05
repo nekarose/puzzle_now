@@ -1,10 +1,10 @@
 {
-  "latest_version": "2.4.0",
+  "latest_version": "2.5.0",
   "min_supported_version": "1.0.0",
-  "update_message": "프로필 아이콘과 테두리가 생겼어요! 새 아이콘을 모으면 순위표와 대전에서 다른 사람에게도 보여요.",
-  "update_message_en": "New profile icons and frames! Earn icons and show them on leaderboards and in battles.",
-  "update_message_ja": "プロフィールアイコンとフレームが登場！集めたアイコンはランキングと対戦で他の人にも見えます。",
-  "update_message_zh": "全新個人圖示和外框！收集的圖示在排行榜和對戰中其他玩家也看得到。",
+  "update_message": "내 사진을 그룹으로 관리하고 PC에서 바로 올려요! 오늘의 도전에 새 친구들도 나와요.",
+  "update_message_en": "Organize your photos into groups and upload them from your PC! New friends join the Daily Challenge.",
+  "update_message_ja": "写真をグループで管理し、PCから直接追加できます！今日のチャレンジに新しい仲間も登場します。",
+  "update_message_zh": "用群組管理照片，還能從 PC 直接上傳！每日挑戰也有新朋友登場。",
   "ios_store_url": "https://apps.apple.com/kr/app/id6797112599",
   "android_store_url": "market://details?id=com.nekarose.photo_puzzle_game"
 }
