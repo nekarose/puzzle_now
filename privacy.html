@@ -32,7 +32,7 @@
 <body>
 
 <h1>Dumbo Drop 개인정보처리방침</h1>
-<p class="meta">시행일: 2026년 11월 5일 (최초 시행 2026년 7월 30일)</p>
+<p class="meta">시행일: 2026년 11월 14일 (최초 시행 2026년 7월 30일)</p>
 
 <p>Dumbo Drop(이하 "본 앱")은 이용자의 개인정보를 소중히 다룹니다. 본 방침은 본 앱이
 어떤 정보를 다루고, 무엇을 다루지 않는지를 설명합니다.</p>
@@ -48,6 +48,8 @@
   <li>도달한 <strong>스테이지 번호</strong></li>
   <li>기기 종류 구분값(iOS / Android)</li>
   <li>기록이 등록된 <strong>시각</strong>과, 앱이 자동으로 만든 <strong>익명 식별자</strong></li>
+  <li>순위 알림을 켜 둔 경우: <strong>푸시 알림 토큰</strong>, 앱 언어, 기기의 시간대(UTC와의 시차),
+      마지막으로 확인한 순위와 알림을 보낸 날짜 (5항 참고)</li>
 </ul>
 <p>익명 식별자는 계정이 아니라 설치된 앱마다 자동으로 생성되는 임의의 문자열이며,
 이름·이메일·전화번호와 연결되지 않습니다. 순위표에 참여하지 않으면 이 정보도 만들어지지
@@ -124,6 +126,15 @@
   <li>앱을 삭제하면 익명 식별자가 사라져 이후 기록을 스스로 지울 수 없게 되므로,
       삭제를 원하시면 <strong>앱을 지우기 전에</strong> 위 기능을 사용하시거나
       10항의 연락처로 요청해 주십시오.</li>
+  <li><strong>순위 알림:</strong> 이름을 정했고 기기에서 알림을 허용했다면, 오늘의 도전이나
+      무한 모드에서 10위 안에 있다가 순위가 밀렸을 때 푸시 알림을 받을 수 있습니다. 이를 위해
+      푸시 알림 토큰(알림을 이 기기로 보내기 위한 주소), 앱 언어, 시간대, 마지막으로 확인한 순위와
+      알림을 보낸 날짜를 Google Firebase에 저장합니다. 시간대는 밤 10시부터 아침 8시 사이에
+      알림을 보내지 않기 위해서만 씁니다. 알림은 Google Firebase Cloud Messaging과 Apple 푸시
+      알림 서비스를 거쳐 전달되며, 알림 내용에는 다른 이용자의 이름이 들어가지 않습니다.
+      설정의 <strong>"순위 알림"</strong>을 끄면 바로, 기기에서 알림을 끄면 다음에 앱을 열 때
+      저장된 토큰을 지우며, 확인한 순위와 날짜도 이후 2시간 안에 지워집니다. "순위표에서 내 기록
+      삭제"도 토큰을 함께 지웁니다.</li>
 </ul>
 
 <h2>6. 업데이트 확인</h2>
@@ -155,6 +166,7 @@
       있습니다. 게임 진행과 연속 기록은 그대로 유지됩니다.</li>
   <li>순위표 표시 이름은 설정에서 언제든 바꿀 수 있습니다. 이미 등록된 기록은 등록 당시의
       이름으로 남습니다.</li>
+  <li>설정의 "순위 알림"을 끄면 순위 알림이 오지 않고 저장된 푸시 알림 토큰이 지워집니다.</li>
   <li>광고 식별자 초기화 및 맞춤 광고 제한은 기기 설정에서 가능합니다.</li>
 </ul>
 
@@ -167,7 +179,7 @@
 
 <div class="en">
 <h1>Dumbo Drop Privacy Policy</h1>
-<p class="meta">Effective 5 November 2026 (first published 30 July 2026)</p>
+<p class="meta">Effective 14 November 2026 (first published 30 July 2026)</p>
 
 <p><strong>No accounts, no sign-in.</strong> Dumbo Drop never asks for your name, email,
 phone number or contacts. The one thing the developer does store is described next, and
@@ -192,6 +204,16 @@ Google Firebase (Seoul region) on the developer's behalf. The name you pick is s
 other players, so do not use your real name or anything identifying. You can erase your
 entries and the stored name at any time from <em>Settings → 순위표에서 내 기록 삭제</em>;
 note that deleting the app alone does not remove entries already posted.
+
+<br><br><strong>Rank alerts.</strong> If you have a display name and allow notifications, the
+app can tell you when you drop out of a top-10 spot on the daily or endless board. For this it
+stores a push notification token (the address used to reach this device), the app language,
+your time zone offset (used only to stay quiet between 10 pm and 8 am), and the last rank seen
+and date alerted, in Google Firebase. Alerts are delivered through Firebase Cloud Messaging and
+Apple Push Notification service and never name the other player. Turning off
+<em>Settings → 순위 알림</em> deletes the stored token at once (turning off notifications for
+the app does so the next time the app opens), and the rank and date go within two hours.
+Erasing your leaderboard entries removes the token too.
 
 <br><br><strong>Stored locally only.</strong> Current stage and board, hint count, music
 on/off, the photo setting, the filenames of your chosen photos, your daily best and streak,
