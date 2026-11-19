@@ -1,10 +1,10 @@
 {
-  "latest_version": "2.6.0",
+  "latest_version": "2.7.0",
   "min_supported_version": "1.0.0",
-  "update_message": "순위가 밀리면 알려 드려요! 조각이 붙고 완성되는 순간도 더 짜릿해졌어요.",
-  "update_message_en": "Get rank alerts when you're passed! Joining and finishing pictures feels snappier too.",
-  "update_message_ja": "順位が下がったらお知らせ！ピースがくっつく瞬間も完成の瞬間も気持ちよくなりました。",
-  "update_message_zh": "排名被超越時會通知你！拼片相連和完成的瞬間也更爽快了。",
+  "update_message": "설정을 여는 동안 시간이 멈추고, 400스테이지까지 새 친구들을 만날 수 있어요.",
+  "update_message_en": "The clock now stops while settings are open, and new friends appear up to stage 400.",
+  "update_message_ja": "設定中は時間が止まり、ステージ400まで新しい仲間に会えます。",
+  "update_message_zh": "打開設定時計時暫停，到第 400 關都能遇見新夥伴。",
   "ios_store_url": "https://apps.apple.com/kr/app/id6797112599",
   "android_store_url": "market://details?id=com.nekarose.photo_puzzle_game"
 }
